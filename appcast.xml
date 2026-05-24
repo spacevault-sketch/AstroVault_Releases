@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AstroVault</title>
+    <link>https://spacevault-sketch.github.io/AstroVault_Releases/appcast.xml</link>
+    <description>AstroVault macOS app — release notes and updates</description>
+    <language>en</language>
+    <!-- Releases will appear here after each build_dmg.sh + sign_update run. -->
+  </channel>
+</rss>
