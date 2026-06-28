@@ -7,6 +7,20 @@
     <link>https://spacevault-sketch.github.io/AstroVault_Releases/appcast.xml</link>
     <description>AstroVault macOS app — release notes and updates</description>
     <language>en</language>
-    <!-- Releases will appear here after each build_dmg.sh + sign_update run. -->
+
+    <item>
+      <title>AstroVault 1.0.7</title>
+      <sparkle:releaseNotesLink>https://github.com/spacevault-sketch/AstroVault_Releases/releases/tag/v1.0.7</sparkle:releaseNotesLink>
+      <pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/spacevault-sketch/AstroVault_Releases/releases/download/v1.0.7/AstroVault-1.0.7.dmg"
+        sparkle:version="1.0.7"
+        sparkle:shortVersionString="1.0.7"
+        sparkle:edSignature="SMhNnUc/9Mrh/DOvSNfHf0UyKfsm51B+mWR0mLLofCgBuHO2IOMBCsDk9TeA9H0hwhf2qoWUdFQyLYtfWmlRBA=="
+        length="11060873"
+        type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+
   </channel>
 </rss>
