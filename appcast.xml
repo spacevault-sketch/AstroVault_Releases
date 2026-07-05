@@ -10,10 +10,18 @@
 
     <item>
       <title>AstroVault 1.4.5</title>
-      <sparkle:releaseNotesLink>https://github.com/spacevault-sketch/AstroVault-Swift/releases/tag/v1.4.5</sparkle:releaseNotesLink>
+      <description><![CDATA[
+        <h2>Loan &amp; transfer rules</h2>
+        <ul>
+          <li><b>Transfer-to-account rule action</b> — tag a loan or card payment so it leaves your spending totals and draws down the target account. Or right-click a transaction &rarr; <i>Create Rule from this transaction&hellip;</i></li>
+          <li><b>Recategorize existing</b> — an opt-in per-rule toggle to re-tag transactions that already have a category, not just fill blanks.</li>
+          <li><b>Loans now count in net worth</b> as liabilities.</li>
+        </ul>
+        <p>Requires macOS 15+.</p>
+      ]]></description>
       <pubDate>Sun, 05 Jul 2026 15:18:47 +0000</pubDate>
       <enclosure
-        url="https://github.com/spacevault-sketch/AstroVault-Swift/releases/download/v1.4.5/AstroVault-1.4.5.dmg"
+        url="https://github.com/spacevault-sketch/AstroVault_Releases/releases/download/v1.4.5/AstroVault-1.4.5.dmg"
         sparkle:version="1.4.5"
         sparkle:shortVersionString="1.4.5"
         sparkle:edSignature="FwFIis2u6zIllIygNjk05rsqwxz+IxmFrzWpvdea6UgYcwdwLJNJwk0270RRj2OC9Su6Xu/NlwaDpbsQ2w0SAg=="
@@ -24,10 +32,10 @@
 
     <item>
       <title>AstroVault 1.4.4</title>
-      <sparkle:releaseNotesLink>https://github.com/spacevault-sketch/AstroVault-Swift/releases/tag/v1.4.4</sparkle:releaseNotesLink>
+      <description><![CDATA[<p>Walkthrough fixes: menu-bar panel readability, tour step order, "Debt Payoff" rename, business sidebar trim, ⌘K Return runs the highlighted item. Requires macOS 15+.</p>]]></description>
       <pubDate>Sat, 04 Jul 2026 22:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/spacevault-sketch/AstroVault-Swift/releases/download/v1.4.4/AstroVault-1.4.4.dmg"
+        url="https://github.com/spacevault-sketch/AstroVault_Releases/releases/download/v1.4.4/AstroVault-1.4.4.dmg"
         sparkle:version="1.4.4"
         sparkle:shortVersionString="1.4.4"
         sparkle:edSignature="wfgE5LS8Ps9JyLPU8E85B2NajtDh1Zop4Y73WpB8jM59lNMfPp4yGxdvZmd1xUzTk4fGGb6XVqX33B450R6gCA=="
