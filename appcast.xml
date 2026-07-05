@@ -9,6 +9,20 @@
     <language>en</language>
 
     <item>
+      <title>AstroVault 1.5.0</title>
+      <sparkle:releaseNotesLink>https://github.com/spacevault-sketch/AstroVault_Releases/releases/tag/v1.5.0</sparkle:releaseNotesLink>
+      <pubDate>Sun, 05 Jul 2026 20:25:59 +0000</pubDate>
+      <enclosure
+        url="https://github.com/spacevault-sketch/AstroVault_Releases/releases/download/v1.5.0/AstroVault-1.5.0.dmg"
+        sparkle:version="1.5.0"
+        sparkle:shortVersionString="1.5.0"
+        sparkle:edSignature="0bAC5AwbCTAn/50fNtixpO8DiposvGX+4OwX0ZIMQ6bP07Fwdi3Fyzvw91WempjvupQ7vN7CY695H+JqTiOXBA=="
+        length="11968730"
+        type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+
+    <item>
       <title>AstroVault 1.4.5</title>
       <description><![CDATA[
         <h2>Loan &amp; transfer rules</h2>
