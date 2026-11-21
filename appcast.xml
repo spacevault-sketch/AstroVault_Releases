@@ -9,6 +9,20 @@
     <language>en</language>
 
     <item>
+      <title>AstroVault 1.7.24</title>
+      <sparkle:releaseNotesLink>https://github.com/spacevault-sketch/AstroVault_Releases/releases/tag/v1.7.24</sparkle:releaseNotesLink>
+      <pubDate>Sat, 21 Nov 2026 16:33:06 +0000</pubDate>
+      <enclosure
+        url="https://github.com/spacevault-sketch/AstroVault_Releases/releases/download/v1.7.24/AstroVault-1.7.24.dmg"
+        sparkle:version="1.7.24"
+        sparkle:shortVersionString="1.7.24"
+        sparkle:edSignature="wDfomMd0b4DUqnDegEVe2COAAiGbbno5Gh5FIOc0CCGONvB0oC15drKzsI/PC5J6LHm0i2oi4sdSjLp0cF8hDQ=="
+        length="12863714"
+        type="application/octet-stream"/>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    </item>
+
+    <item>
       <title>AstroVault 1.7.23</title>
       <sparkle:releaseNotesLink>https://github.com/spacevault-sketch/AstroVault_Releases/releases/tag/v1.7.23</sparkle:releaseNotesLink>
       <pubDate>Sat, 21 Nov 2026 05:30:16 +0000</pubDate>
